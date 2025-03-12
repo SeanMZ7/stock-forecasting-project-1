@@ -1,2 +1,2 @@
 # stock_data
-Ai Model that predicts future stock prices (first project)
+AI Model that predicts future stock prices (first project)
