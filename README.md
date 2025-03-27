@@ -111,4 +111,4 @@ The project implements several deep learning architectures:
 
 ## Author
 - Sean Ziogas
-- SeanMZ7
+- [SeanMZ7](https://github.com/SeanMZ7)
