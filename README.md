@@ -96,7 +96,7 @@ The project implements several deep learning architectures:
   The basic signal-based trading strategy underperforms buy-and-hold on a bullish index like SPY, but further refinements (e.g., position sizing, risk management) are suggested for future work.
 
 ## Usage
-1. Clone the repository:
+- Clone the repository:
    ```bash
    git clone https://github.com/SeanMZ7/stock-forecasting-project-1
 
@@ -107,8 +107,8 @@ The project implements several deep learning architectures:
 - Implement walk-forward validation for more robust performance evaluation.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-Sean Ziogas
-SeanMZ7
+- Sean Ziogas
+- SeanMZ7
