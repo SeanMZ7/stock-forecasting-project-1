@@ -3,8 +3,6 @@
 ## Overview
 This project forecasts the SPY ETF (S&P 500 index) using a range of advanced deep learning models (LSTM, Transformer, CNN-LSTM, GRU, Bidirectional LSTM, TCN) along with engineered features from price, volume, technical indicators, news sentiment, and fundamental macroeconomic data. It also includes a backtesting framework to simulate a trading strategy based on the forecasts.
 
-## Project Structure
-
 ## Data
 - **Source:** Data is downloaded using the yfinance API for SPY and VIX.
 - **Additional Data:** Simulated daily news sentiment and monthly fundamental data (Inflation, Interest Rate) are merged with the stock data.
